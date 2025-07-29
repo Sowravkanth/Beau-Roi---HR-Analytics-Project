@@ -14,6 +14,7 @@ These outputs are designed to empower HR leadership with data-driven decisions, 
 Deliverables Completed ✅ :
 
 Deliverable 1 : Data Profiling Report – Dataset overview, structure, and quality check.
+📊 [Click here to view the Data Profiling Report](https://raw.githack.com/Sowravkanth/Beau-Roi-Group-C-Interns---HR-Analytics-Project/main/Deliverable_1%20Data_Profiling_Report.html)
 
 Deliverable 2 : Correlation analysis – Employee Metrics Heatmap and Correlation insights
 
